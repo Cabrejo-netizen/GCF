@@ -1,2 +1,3 @@
 # GCF
-Tech
+Techonology 
+hobby,name and age
